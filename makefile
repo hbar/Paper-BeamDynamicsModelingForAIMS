@@ -1,4 +1,4 @@
-# MAKEFILE FOR Beam dynamucs paper
+# MAKEFILE FOR Beam dynamics paper
 
 # Ultimate target is the pdf
 # all: AIMSBeamDynamics.pdf
